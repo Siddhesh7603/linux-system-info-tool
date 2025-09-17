@@ -12,3 +12,9 @@ Developed a menu-driven Bash script to automate system checks (uptime, disk, fil
 3. Run the script:  
    ```bash
    ./system_info.sh
+
+## Example Screenshot (Optional)  
+If you want to show how it looks when running, you can take a screenshot and add it like this:  
+```markdown
+## Example
+![Menu Screenshot]
